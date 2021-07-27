@@ -5,7 +5,6 @@ These are just a set of tasks I've completed as an intern in the month of July(2
 
 TASK 1 CREATE A SINGLE PAGE WEBSITE USING HTML, CSS AND JAVASCRIPT. IDE used : Visual Studio Code
 
-https://aishrangesh.github.io/MalArch/
 
 TASK 3
 
