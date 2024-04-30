@@ -28,7 +28,7 @@ Contributions to enhance the website's design, functionality, or content are wel
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-For any inquiries or feedback, feel free to contact us at [malarch@example.com](mailto:malarch@example.com).
+For any inquiries or feedback, feel free to contact us at [malarch@example.com](mailto:aishwaryarangesh6@gmail.com).
 
 ---
 
